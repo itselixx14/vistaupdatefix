@@ -3,6 +3,6 @@ A simple batch script to automatically download and install hotfixes to enable W
 
 Please ensure you are running the script as administrator on Windows Vista x64 SP2.
 
-The script is titled "RUN-AS-ADMIN.bat"
+The script is titled "vistaupdatefix.bat"
 
-Right click it and select Run as administrator. 
+It will automatically request administrative privileges thanks to this script: https://sites.google.com/site/eneerge/scripts/batchgotadmin
