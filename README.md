@@ -1,7 +1,7 @@
 # vistaupdatefix
-A simple batch script to automatically download and install hotfixes to enable Windows Update on Vista x64.
+A simple batch script to automatically download and install hotfixes to enable Windows Update on Windows Vista SP2.
 
-Please ensure you are running the script as administrator on Windows Vista x64 SP2.
+The script will automatically detect architecture and download and install the appropriate files.
 
 The script is titled "vistaupdatefix.bat"
 
